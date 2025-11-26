@@ -17,11 +17,6 @@ body {
   font-size: 22px;
 }
 
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -32,6 +27,7 @@ body {
 #confirm-button{
   background-color: green;
   color: white;
+  font-weight: bold;
 }
 
 .text.child {
